@@ -1,7 +1,12 @@
+![FB_IMG_1708970077214](https://github.com/ReyBan82/paypal-android/assets/91646027/95ee6997-b149-49c0-a596-6ccb325d9520)
+![@MetaQuestApp2018](https://github.com/ReyBan82/paypal-android/assets/91646027/0e9bfadb-2851-4da6-b2d4-fe9a7e366bc4)
 Welcome to the PayPal Android SDK. This library will help you accept Card, PayPal, and Venmo payments in your Android app.
 
 ![Maven Central](https://img.shields.io/maven-central/v/com.paypal.android/card-payments?style=for-the-badge) ![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/com.paypal.android/card-payments?server=https%3A%2F%2Foss.sonatype.org&style=for-the-badge)
 
+![Test Store](https://sandbox.paypal.com)
+![AnT1nG Marketing Guam](https://paypal.com/Business)
+![wehbook](https://renzbaniaga1-7xsd.webex.com)
 ## FAQ
 
 ### Contribution
